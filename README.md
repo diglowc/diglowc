@@ -5,16 +5,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdiglowc&count_bg=%234D75B8&title_bg=%23373434&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-## Contact
+## About Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diglowc@gmail.com)](mailto:diglowc@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/Tech%20blog-black?style=flat-square&logo=Tistory)]()
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/c-diglow-a79686309/)](https://www.linkedin.com/in/c-diglow-a79686309/)
+[![Tech Blog Badge](http://img.shields.io/badge/Tech%20Blog-black?style=flat-square&logo=Tistory)]()
 
 ## Experience
 - 2023학년도 미래 유망 신산업 신기술 이해력 배양을 위한 창업 캠프 - 최우수상 (2023.06)
 - 인공지능 전문 연구개발 기업 코드비전 인턴 (2024.09 ~ 2024.12)
 
-## Stack
+## Tech Stack
 
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
 <img alt="Python" src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
